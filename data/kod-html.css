@@ -404,10 +404,6 @@ text-decoration: none;
     color: black;
 }
 
-li:not(:last-child) {
-    margin-bottom: 5px;
-}
-
 .innehall_ram { border: none; }
 
 .innehall h1 { color: black; }
