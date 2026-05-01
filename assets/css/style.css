@@ -379,7 +379,7 @@ header ul a strong {
 }
 
 section {
-  width: 650px;
+  width: 720px;
   float: right;
   padding-top: 4em;
   padding-bottom: 50px;
@@ -437,7 +437,6 @@ footer {
     top: 52px;
   }
   .image.avatar img {
-    border-radius: 100%;
     width: 117px;
     padding: 20px;
   }
@@ -479,7 +478,6 @@ footer {
     width: 33%;
   }
   .image.avatar img {
-    border-radius: 100%;
     width: 95px;
     padding: 20px;
   }
